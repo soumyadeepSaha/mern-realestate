@@ -47,3 +47,14 @@ readme2::::
 10:14:00 - Complete home page
 10:39:04 - Complete about page
 10:42:11 - Deploy to render
+
+
+
+**INFO**
+
+
+An API route refers to a specific endpoint or URL within an API (Application Programming Interface) that developers can use to interact with the API's functionalities and resources. In a RESTful API, which is a common type of API architecture, API routes are typically organized in a hierarchical manner to represent different resources and actions.
+
+Each of these routes corresponds to different functionalities within the API. For instance, developers can use the /posts route to retrieve a list of all blog posts or create a new blog post, while the /posts/{id} route allows them to retrieve, update, or delete a specific blog post.
+
+API routes are crucial for developers as they provide a structured way to access and manipulate data and services provided by the API, enabling them to build applications that leverage the API's capabilities effectively.
